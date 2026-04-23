@@ -1,0 +1,4 @@
+split,num_images,image_height,image_width,channels
+train,11959,28,28,3
+validation,1712,28,28,3
+test,3421,28,28,3

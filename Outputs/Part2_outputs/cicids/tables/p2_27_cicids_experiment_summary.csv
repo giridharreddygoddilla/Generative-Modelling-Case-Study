@@ -1,0 +1,12 @@
+item,value
+rows_used_for_training,691395
+num_features_used,68
+benign_rows_used,439683
+dos_rows_used,251712
+epochs,30
+batch_size,256
+latent_dim,64
+final_generator_loss,2.261579464074198
+final_discriminator_loss,0.5484511584363483
+pca_sample_size,5000
+device_used,cpu

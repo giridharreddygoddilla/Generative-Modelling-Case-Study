@@ -1,0 +1,12 @@
+item,value
+num_images_used,130371
+image_height,28
+image_width,28
+epochs,30
+batch_size,256
+latent_dim,64
+final_generator_loss,3.401487751023166
+final_discriminator_loss,0.45689274214354214
+fid_value,41.74568176269531
+fid_status,computed_successfully
+device_used,cpu

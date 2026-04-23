@@ -1,0 +1,5 @@
+experiment,metric,real,generated,absolute_difference
+Modified GAN on Spiral Data,mean_x,-0.002737671,0.024542863,0.027280534
+Modified GAN on Spiral Data,mean_y,-0.0738258,-0.09506152,0.02123572
+Modified GAN on Spiral Data,std_x,0.43787986,0.42827243,0.009607434
+Modified GAN on Spiral Data,std_y,0.42880458,0.45863786,0.029833287

@@ -1,0 +1,9 @@
+class_id,class_name,count
+0,basophil,852
+1,eosinophil,2181
+2,erythroblast,1085
+3,immature granulocytes,2026
+4,lymphocyte,849
+5,monocyte,993
+6,neutrophil,2330
+7,platelet,1643

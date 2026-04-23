@@ -1,0 +1,13 @@
+item,value
+train_images,11959
+val_images,1712
+test_images,3421
+image_size_after_resize,32
+epochs,40
+batch_size,128
+latent_dim,100
+final_generator_loss,2.4864288742871996
+final_discriminator_loss,0.5462739605535852
+fid_value,210.65318298339844
+fid_status,computed_successfully
+device_used,cpu

@@ -1,0 +1,13 @@
+experiment,metric,real,generated,absolute_difference
+Baseline GAN on Sine-Wave Data,mean_x,-0.008564427,-0.07442942,0.065864995
+Baseline GAN on Sine-Wave Data,mean_y,0.010461815,0.0049198773,0.0055419374
+Baseline GAN on Sine-Wave Data,std_x,1.8355556,1.8343307,0.0012248755
+Baseline GAN on Sine-Wave Data,std_y,0.7129261,0.713843,0.00091689825
+Baseline GAN on Spiral Data,mean_x,-0.002737671,0.006011738,0.008749409
+Baseline GAN on Spiral Data,mean_y,-0.0738258,-0.05783721,0.015988588
+Baseline GAN on Spiral Data,std_x,0.43787986,0.44016132,0.0022814572
+Baseline GAN on Spiral Data,std_y,0.42880458,0.41476876,0.014035821
+Modified GAN on Spiral Data,mean_x,-0.002737671,0.024542863,0.027280534
+Modified GAN on Spiral Data,mean_y,-0.0738258,-0.09506152,0.02123572
+Modified GAN on Spiral Data,std_x,0.43787986,0.42827243,0.009607434
+Modified GAN on Spiral Data,std_y,0.42880458,0.45863786,0.029833287

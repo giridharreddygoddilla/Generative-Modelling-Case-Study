@@ -1,0 +1,5 @@
+experiment,metric,real,generated,absolute_difference
+Baseline GAN on Sine-Wave Data,mean_x,-0.008564427,-0.07442942,0.065864995
+Baseline GAN on Sine-Wave Data,mean_y,0.010461815,0.0049198773,0.0055419374
+Baseline GAN on Sine-Wave Data,std_x,1.8355556,1.8343307,0.0012248755
+Baseline GAN on Sine-Wave Data,std_y,0.7129261,0.713843,0.00091689825

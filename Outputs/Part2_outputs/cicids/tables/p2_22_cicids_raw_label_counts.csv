@@ -1,0 +1,7 @@
+label,count
+BENIGN,440031
+DoS Hulk,231073
+DoS GoldenEye,10293
+DoS slowloris,5796
+DoS Slowhttptest,5499
+Heartbleed,11

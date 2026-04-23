@@ -1,0 +1,2 @@
+metric,value,num_real_images,num_fake_images,status
+FID,210.65318298339844,1000,1000,computed_successfully

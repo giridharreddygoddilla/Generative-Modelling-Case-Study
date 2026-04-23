@@ -1,0 +1,6 @@
+item,value
+rows_before_dropna,692692
+rows_after_dropna,691395
+rows_used_for_training,691395
+num_numeric_features_before_constant_drop,78
+num_numeric_features_after_constant_drop,68
